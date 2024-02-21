@@ -34,7 +34,17 @@ DRONE_VENDOR_MACS = {
 	'90:03:b7': 'Parrot',
 	'00:26:7e': 'Parrot',
 	'00:12:1c': 'Parrot',
-	'60:60:1f': 'DJI'
+	'60:60:1f': 'DJI' 
+	'34:D2:62': 'DJI' 
+	'38:1D:14':  'SKYDIO' 
+        'E0:B6:F5': 'YUNEEQ'  
+        '4C:48:DA': 'Beijing Autelan Technology Co.,Ltd'
+        '00:1F:64': 'Beijing Autelan Technology Inc.'
+        '4C:45:76':  'China Mobile(Hangzhou) Information Technology Co.,Ltd.'
+        '04:71:4B':   'KittyHawk Corporation' 
+	'34:D0:B8':    'Skytech Creations Limited' 
+        '98:AA:FC':    'Shenzhen Hubsan Technology Co.，LTD.'
+
 	#'04:d6:aa': 'Samsung'
 
 }
